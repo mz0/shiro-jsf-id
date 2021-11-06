@@ -1,6 +1,6 @@
 ```
 mvn archetype:generate
- -DgroupId="net.x320"
+ -DgroupId="com.mycompany"
  -DartifactId="my-id"
  -DarchetypeGroupId="javax.faces"
  -DarchetypeArtifactId="javax.faces-war-archetype"
