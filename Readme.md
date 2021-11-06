@@ -7,3 +7,4 @@ mvn archetype:generate
  -DarchetypeVersion="2.2"
  -DinteractiveMode=false
 ```
+![start page literally showing "First name: Last name: " and a "submit" button and nothing more](doc/start.png)
